@@ -1,0 +1,76 @@
+[
+  {
+    "firstName": "Bran",
+    "lastName": "Sultana",
+    "phoneNumbers": [
+      {
+        "type": "Home",
+        "number": "111-111-1111"
+      },
+      {
+        "type": "Mobile",
+        "number": "222-222-2222"
+      }
+    ],
+    "image": "contact1"
+  },
+
+  {
+    "firstName": "Steve",
+    "lastName": "Smith",
+    "phoneNumbers": [
+      {
+        "type": "Home",
+        "number": "333-333-3333"
+      }
+    ],
+    "image": "contact2"
+  },
+
+  {
+    "firstName": "John",
+    "lastName": "Jefferson",
+    "phoneNumbers": [],
+    "image": "contact3"
+  },
+
+  {
+    "firstName": "Joe",
+    "phoneNumbers": [],
+    "image": "contact4"
+  },
+
+  {
+
+    "phoneNumbers": [
+      {
+        "type": "Work",
+        "number": "444-444-4444"
+      }
+    ]
+  },
+  {
+
+  },
+
+  {
+    "firstName": "Jean",
+    "lastName": "Parmesean",
+    "phoneNumbers": [
+      {
+        "number": "555-555-5555"
+      }
+    ],
+    "image": "contact5"
+  },
+
+  {
+    "firstName": "Test",
+    "lastName": "Testingson",
+    "phoneNumbers": [
+      {
+      }
+    ],
+    "image": "contact5"
+  }
+]
